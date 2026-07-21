@@ -1,0 +1,56 @@
+{
+  "ds_1": [
+    {"phase": "Python & SQL", "days_start": 1, "days_end": 10, "topics": "Python, NumPy, Pandas, SQL"},
+    {"phase": "Statistics & EDA", "days_start": 11, "days_end": 20, "topics": "Probability, Hypothesis testing, Visualization"},
+    {"phase": "Machine Learning", "days_start": 21, "days_end": 35, "topics": "Supervised learning, Model evaluation"},
+    {"phase": "Deep Learning & MLOps", "days_start": 36, "days_end": 50, "topics": "Neural nets, Deployment basics"}
+  ],
+  "wd_1": [
+    {"phase": "HTML CSS JavaScript", "days_start": 1, "days_end": 14, "topics": "DOM, ES6+, responsive design"},
+    {"phase": "React & State", "days_start": 15, "days_end": 28, "topics": "Components, Hooks, Routing"},
+    {"phase": "Backend APIs", "days_start": 29, "days_end": 42, "topics": "Node Express REST MongoDB"},
+    {"phase": "Projects & Deploy", "days_start": 43, "days_end": 60, "topics": "Full-stack apps, CI/CD basics"}
+  ],
+  "mle_1": [
+    {"phase": "Python & ML Core", "days_start": 1, "days_end": 15, "topics": "Python, scikit-learn, evaluation"},
+    {"phase": "Deep Learning", "days_start": 16, "days_end": 35, "topics": "PyTorch or TensorFlow, NLP/CV intro"},
+    {"phase": "MLOps & Infra", "days_start": 36, "days_end": 55, "topics": "Docker, CI/CD, model serving"},
+    {"phase": "Cloud & Scale", "days_start": 56, "days_end": 75, "topics": "AWS/GCP basics, monitoring"}
+  ],
+  "devops_1": [
+    {"phase": "Linux & Scripting", "days_start": 1, "days_end": 12, "topics": "Shell, processes, networking basics"},
+    {"phase": "Git & CI/CD", "days_start": 13, "days_end": 25, "topics": "Git workflows, GitHub Actions, Jenkins"},
+    {"phase": "Containers & K8s", "days_start": 26, "days_end": 45, "topics": "Docker, Kubernetes fundamentals"},
+    {"phase": "Cloud & Observability", "days_start": 46, "days_end": 65, "topics": "AWS core services, Prometheus, Grafana"}
+  ],
+  "mobile_1": [
+    {"phase": "Language & Tools", "days_start": 1, "days_end": 14, "topics": "Swift/Kotlin or Dart, IDE setup"},
+    {"phase": "UI & UX patterns", "days_start": 15, "days_end": 30, "topics": "Layouts, navigation, state"},
+    {"phase": "Data & APIs", "days_start": 31, "days_end": 45, "topics": "REST, local storage, auth"},
+    {"phase": "Publishing", "days_start": 46, "days_end": 60, "topics": "Testing, App Store/Play"}
+  ],
+  "ds_2": [
+    {"phase": "Excel & Sheets", "days_start": 1, "days_end": 8, "topics": "Formulas, pivot tables"},
+    {"phase": "SQL", "days_start": 9, "days_end": 20, "topics": "Queries, joins, window functions"},
+    {"phase": "BI Tools", "days_start": 21, "days_end": 35, "topics": "Tableau or Power BI dashboards"},
+    {"phase": "Python for Analytics", "days_start": 36, "days_end": 50, "topics": "Pandas, visualization with matplotlib"}
+  ],
+  "be_1": [
+    {"phase": "Language deep dive", "days_start": 1, "days_end": 15, "topics": "Python/Java/Go idioms, testing"},
+    {"phase": "Databases", "days_start": 16, "days_end": 30, "topics": "SQL design, indexing, NoSQL"},
+    {"phase": "APIs & Auth", "days_start": 31, "days_end": 45, "topics": "REST, GraphQL, OAuth/JWT"},
+    {"phase": "Distributed systems", "days_start": 46, "days_end": 70, "topics": "Caching, messaging, system design"}
+  ],
+  "fe_1": [
+    {"phase": "TypeScript & Tooling", "days_start": 1, "days_end": 12, "topics": "TS types, bundlers, testing"},
+    {"phase": "React or Vue", "days_start": 13, "days_end": 30, "topics": "State, patterns, SSR basics"},
+    {"phase": "CSS at scale", "days_start": 31, "days_end": 42, "topics": "Tailwind/CSS-in-JS, design systems"},
+    {"phase": "Performance & A11y", "days_start": 43, "days_end": 60, "topics": "Web vitals, WCAG"}
+  ],
+  "sec_1": [
+    {"phase": "Foundations", "days_start": 1, "days_end": 15, "topics": "Networking, Linux, TCP/IP"},
+    {"phase": "App Security", "days_start": 16, "days_end": 35, "topics": "OWASP Top 10, secure coding"},
+    {"phase": "Offensive basics", "days_start": 36, "days_end": 50, "topics": "Burp, privilege escalation intro"},
+    {"phase": "Defensive & SOC", "days_start": 51, "days_end": 70, "topics": "SIEM concepts, IR basics"}
+  ]
+}

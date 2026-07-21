@@ -1,0 +1,85 @@
+### Variables (VS Code REST Client / similar)
+@base = http://localhost:8000
+@token = paste_jwt_here
+
+### Health
+GET {{base}}/health
+
+### Register
+POST {{base}}/register
+Content-Type: application/json
+
+{
+  "email": "learner@example.com",
+  "password": "securepass123",
+  "full_name": "Ada Learner"
+}
+
+### Login
+POST {{base}}/login
+Content-Type: application/json
+
+{
+  "email": "learner@example.com",
+  "password": "securepass123"
+}
+
+### Generate path (explicit level)
+POST {{base}}/generate-path
+Authorization: Bearer {{token}}
+Content-Type: application/json
+
+{
+  "skills": ["Python", "Machine Learning"],
+  "goal": "Data Scientist",
+  "experience_level": "Beginner",
+  "hours_per_day": 1.5,
+  "regenerate_smarter": false,
+  "use_cache": true
+}
+
+### Regenerate smarter (skip cache, richer LLM)
+POST {{base}}/generate-path
+Authorization: Bearer {{token}}
+Content-Type: application/json
+
+{
+  "skills": ["Python", "Docker"],
+  "goal": "DevOps Engineer",
+  "experience_level": "Intermediate",
+  "hours_per_day": 2,
+  "regenerate_smarter": true,
+  "use_cache": false
+}
+
+### Step feedback
+POST {{base}}/feedback
+Authorization: Bearer {{token}}
+Content-Type: application/json
+
+{
+  "step_index": 0,
+  "phase_name": "Linux & Scripting",
+  "status": "not_understood",
+  "generation_id": "paste_generation_objectid"
+}
+
+### List feedback
+GET {{base}}/feedback
+Authorization: Bearer {{token}}
+
+### Generate path (infer level)
+POST {{base}}/generate-path
+Authorization: Bearer {{token}}
+Content-Type: application/json
+
+{
+  "skills": ["Python", "Docker", "Kubernetes"],
+  "goal": "DevOps Engineer",
+  "experience_level": null,
+  "hours_per_day": 2
+}
+
+### History
+GET {{base}}/history
+Authorization: Bearer {{token}}

@@ -1,0 +1,10 @@
+role_id,role_name,skills_keywords,learning_path_summary,suggested_courses
+ds_1,Data Scientist,"python statistics sql machine learning pandas numpy","Foundations in Python and statistics, then ML and projects","Coursera ML Andrew Ng; Kaggle Learn Pandas; fast.ai Practical DL"
+wd_1,Web Developer,"javascript html css react node typescript","Frontend fundamentals, React, then backend with Node","freeCodeCamp Responsive Web; React docs; Node.js course Odin"
+mle_1,ML Engineer,"python pytorch tensorflow mlops docker kubernetes aws","ML fundamentals, deep learning, then production MLOps","Full Stack Deep Learning; Made With ML MLOps; AWS ML fundamentals"
+devops_1,DevOps Engineer,"linux bash git docker kubernetes ci cd aws networking","Linux and networking, containers, orchestration, cloud","KodeKloud Docker/K8s; Linux Journey; AWS Cloud Practitioner"
+mobile_1,Mobile Developer,"swift kotlin flutter dart ios android mobile ui","Platform basics, UI, then cross-platform or native depth","Google Flutter codelabs; Android Basics; Apple SwiftUI tutorials"
+ds_2,Data Analyst,"excel sql tableau power bi python visualization","Spreadsheets to SQL, visualization tools, storytelling","Mode SQL tutorials; Tableau Public; Google Data Analytics cert"
+be_1,Backend Engineer,"python java go rest graphql databases redis kafka system design","Languages, databases, APIs, then distributed systems","System Design Primer; Designing Data-Intensive Applications; Real Python FastAPI"
+fe_1,Frontend Engineer,"typescript react vue css accessibility performance","Modern JS/TS, framework mastery, performance and a11y","Epic React; Vue Mastery; web.dev learn performance"
+sec_1,Security Engineer,"networking owasp cryptography penetration testing siem","Networking and OS basics, app security, then blue team","Cybrary; OWASP WebGoat; Practical Ethical Hacking Heath Adams"

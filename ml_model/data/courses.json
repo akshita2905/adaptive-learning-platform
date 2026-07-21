@@ -1,0 +1,150 @@
+{
+  "Python": [
+    "Real Python — Python Basics",
+    "Coursera Python for Everybody (Dr. Chuck)",
+    "freeCodeCamp Python Full Course"
+  ],
+  "JavaScript": [
+    "JavaScript.info",
+    "freeCodeCamp JavaScript Algorithms",
+    "MDN Web Docs — JS Guide"
+  ],
+  "SQL": [
+    "Mode SQL Tutorial",
+    "Khan Academy SQL",
+    "SQLBolt interactive lessons"
+  ],
+  "React": [
+    "React official docs (beta)",
+    "Scrimba Learn React",
+    "Epic React (Kent C. Dodds)"
+  ],
+  "Machine Learning": [
+    "Coursera Machine Learning (Andrew Ng)",
+    "fast.ai Practical Deep Learning",
+    "Kaggle Learn ML"
+  ],
+  "Docker": [
+    "Docker official getting started",
+    "Play with Docker labs",
+    "KodeKloud Docker course"
+  ],
+  "Kubernetes": [
+    "Kubernetes official tutorials",
+    "KodeKloud CKA course",
+    "Google Kubernetes Engine quickstart"
+  ],
+  "AWS": [
+    "AWS Skill Builder — Cloud Practitioner",
+    "A Cloud Guru AWS fundamentals",
+    "AWS official workshops"
+  ],
+  "Statistics": [
+    "Khan Academy Statistics",
+    "Coursera Statistics with Python",
+    "OpenIntro Statistics"
+  ],
+  "Git": [
+    "Git official book",
+    "Oh Shit, Git!?!",
+    "Atlassian Git tutorials"
+  ],
+  "HTML": [
+    "MDN HTML basics",
+    "freeCodeCamp Responsive Web Design"
+  ],
+  "CSS": [
+    "MDN CSS guide",
+    "Josh Comeau CSS course",
+    "freeCodeCamp CSS"
+  ],
+  "TypeScript": [
+    "TypeScript Handbook",
+    "Total TypeScript",
+    "Execute Program TypeScript"
+  ],
+  "Node": [
+    "Node.js official guides",
+    "The Odin Project Node",
+    "Udemy Node.js — popular instructors"
+  ],
+  "Linux": [
+    "Linux Journey",
+    "OverTheWire Bandit",
+    "Ubuntu tutorials"
+  ],
+  "Networking": [
+    "Computer Networking — Kurose & Ross (book)",
+    "Cisco Networking Academy intro",
+    "Beej's network guide"
+  ],
+  "Security": [
+    "OWASP WebGoat",
+    "Cybrary Security+",
+    "PortSwigger Web Security Academy"
+  ],
+  "Excel": [
+    "Microsoft Excel for Office 365 learning path",
+    "Excel Easy tutorials"
+  ],
+  "Tableau": [
+    "Tableau Public gallery & tutorials",
+    "DataCamp Tableau fundamentals"
+  ],
+  "Power BI": [
+    "Microsoft Learn Power BI",
+    "Guy in a Cube YouTube series"
+  ],
+  "Flutter": [
+    "Flutter codelabs",
+    "Flutter documentation"
+  ],
+  "Swift": [
+    "Apple Swift Playgrounds",
+    "100 Days of SwiftUI (Paul Hudson)"
+  ],
+  "Kotlin": [
+    "Kotlin Koans",
+    "Android Basics in Kotlin"
+  ],
+  "Redis": [
+    "Redis University RU101",
+    "Redis official documentation"
+  ],
+  "GraphQL": [
+    "How to GraphQL",
+    "Apollo GraphQL tutorials"
+  ],
+  "REST": [
+    "REST API Tutorial",
+    "FastAPI / Express official docs"
+  ],
+  "Java": [
+    "Oracle Java Tutorials",
+    "JetBrains Academy Java"
+  ],
+  "Go": [
+    "A Tour of Go",
+    "Go by Example"
+  ],
+  "PyTorch": [
+    "PyTorch official tutorials",
+    "Deep Learning with PyTorch (book)"
+  ],
+  "TensorFlow": [
+    "TensorFlow beginner tutorials",
+    "Google ML crash course"
+  ],
+  "MLOps": [
+    "Made With ML",
+    "Full Stack Deep Learning"
+  ],
+  "NumPy": [
+    "NumPy user guide",
+    "Real Python NumPy tutorial"
+  ],
+  "Pandas": [
+    "Kaggle Pandas micro-course",
+    "Pandas documentation 10 minutes"
+  ]
+}
